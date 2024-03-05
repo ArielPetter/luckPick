@@ -88,7 +88,7 @@ button:active {
     opacity: 0.7;
 }
 
-@media screen and (max-width: 707px){
+@media screen and (max-width: 707px) {
     * {
         padding: 0;
         margin: 0;

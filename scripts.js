@@ -1,5 +1,5 @@
 const button = document.querySelector(".main-button");
-const min = document.querySelector(".input-min")
+const min = document.querySelector(".input-min");
 
 button.addEventListener("click", generatorNumber);
 
@@ -10,6 +10,4 @@ function generatorNumber() {
   const inputResult = document.querySelector(".input-result");
 
   inputResult.value = result;
-  
 }
-
